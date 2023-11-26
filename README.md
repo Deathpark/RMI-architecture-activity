@@ -53,4 +53,5 @@ java Client 3 5 100
 ```
 
 and we will have the answer in the terminal like this:
+<br />
 ![readMeExample](https://github.com/Deathpark/RMI-architecture-activity/assets/41022890/92110eaf-1352-473f-af39-0058226f324d)
